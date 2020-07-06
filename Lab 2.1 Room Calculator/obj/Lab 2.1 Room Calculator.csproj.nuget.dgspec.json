@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\msalazar\\source\\repos\\Lab 2.1 Room Calculator\\Lab 2.1 Room Calculator.csproj": {}
+    "C:\\Temp\\Lab 2.1 Room Calculator\\Lab 2.1 Room Calculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\msalazar\\source\\repos\\Lab 2.1 Room Calculator\\Lab 2.1 Room Calculator.csproj": {
+    "C:\\Temp\\Lab 2.1 Room Calculator\\Lab 2.1 Room Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\msalazar\\source\\repos\\Lab 2.1 Room Calculator\\Lab 2.1 Room Calculator.csproj",
+        "projectUniqueName": "C:\\Temp\\Lab 2.1 Room Calculator\\Lab 2.1 Room Calculator.csproj",
         "projectName": "Lab 2.1 Room Calculator",
-        "projectPath": "C:\\Users\\msalazar\\source\\repos\\Lab 2.1 Room Calculator\\Lab 2.1 Room Calculator.csproj",
+        "projectPath": "C:\\Temp\\Lab 2.1 Room Calculator\\Lab 2.1 Room Calculator.csproj",
         "packagesPath": "C:\\Users\\msalazar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\msalazar\\source\\repos\\Lab 2.1 Room Calculator\\obj\\",
+        "outputPath": "C:\\Temp\\Lab 2.1 Room Calculator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

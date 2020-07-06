@@ -30,7 +30,18 @@ namespace Lab_2._1_Room_Calculator
             {
                 Console.WriteLine("This room is HUGE!");
             }
-          
+            
+            else if (area < 650 && area > 250)
+            {
+                Console.WriteLine("This room is medium sized.");
+
+            }
+
+            else if (area <= 250)
+            {
+                Console.WriteLine("This room is tiny!");
+            }
+
              
            
 
