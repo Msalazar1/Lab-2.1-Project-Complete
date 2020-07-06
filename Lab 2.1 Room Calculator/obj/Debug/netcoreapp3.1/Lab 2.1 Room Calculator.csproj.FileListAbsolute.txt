@@ -1,0 +1,13 @@
+C:\Users\msalazar\source\repos\Lab 2.1 Room Calculator\bin\Debug\netcoreapp3.1\Lab 2.1 Room Calculator.exe
+C:\Users\msalazar\source\repos\Lab 2.1 Room Calculator\bin\Debug\netcoreapp3.1\Lab 2.1 Room Calculator.deps.json
+C:\Users\msalazar\source\repos\Lab 2.1 Room Calculator\bin\Debug\netcoreapp3.1\Lab 2.1 Room Calculator.runtimeconfig.json
+C:\Users\msalazar\source\repos\Lab 2.1 Room Calculator\bin\Debug\netcoreapp3.1\Lab 2.1 Room Calculator.runtimeconfig.dev.json
+C:\Users\msalazar\source\repos\Lab 2.1 Room Calculator\bin\Debug\netcoreapp3.1\Lab 2.1 Room Calculator.dll
+C:\Users\msalazar\source\repos\Lab 2.1 Room Calculator\bin\Debug\netcoreapp3.1\Lab 2.1 Room Calculator.pdb
+C:\Users\msalazar\source\repos\Lab 2.1 Room Calculator\obj\Debug\netcoreapp3.1\Lab 2.1 Room Calculator.csprojAssemblyReference.cache
+C:\Users\msalazar\source\repos\Lab 2.1 Room Calculator\obj\Debug\netcoreapp3.1\Lab 2.1 Room Calculator.AssemblyInfoInputs.cache
+C:\Users\msalazar\source\repos\Lab 2.1 Room Calculator\obj\Debug\netcoreapp3.1\Lab 2.1 Room Calculator.AssemblyInfo.cs
+C:\Users\msalazar\source\repos\Lab 2.1 Room Calculator\obj\Debug\netcoreapp3.1\Lab 2.1 Room Calculator.csproj.CoreCompileInputs.cache
+C:\Users\msalazar\source\repos\Lab 2.1 Room Calculator\obj\Debug\netcoreapp3.1\Lab 2.1 Room Calculator.dll
+C:\Users\msalazar\source\repos\Lab 2.1 Room Calculator\obj\Debug\netcoreapp3.1\Lab 2.1 Room Calculator.pdb
+C:\Users\msalazar\source\repos\Lab 2.1 Room Calculator\obj\Debug\netcoreapp3.1\Lab 2.1 Room Calculator.genruntimeconfig.cache
